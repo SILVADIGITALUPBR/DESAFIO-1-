@@ -1,24 +1,38 @@
-# Projeto Landing Page
+# Repositorio em React
 
-Bem-vindo ao projeto Landing Page! Este é um projeto simples para criar uma página de destino (landing page) usando HTML, CSS e JavaScript.
+# Requisitos
 
-## Visão Geral
+- O arquivo possui React e Node 
 
-Este projeto visa criar uma landing page atraente e responsiva, fornecendo informações sobre um produto, serviço ou qualquer outro conteúdo relevante. Ele utiliza as seguintes tecnologias:
+# Instalação
 
-- HTML5
-- CSS3 (com Flexbox e Grid para o layout)
-- JavaScript (para interatividade)
+npm install - g typescript
 
-## Como Usar
+npm init -y
 
-1. Clone o repositório: `git clone https://github.com/luanmoraes123/projeto-landing-page.git`.
-2. Abra o arquivo `index.html` no seu navegador preferido.
+npx tsc --init
 
-## Demo
+Acesse o site oficial do Node.js em https://nodejs.org/.
+Clique no botão "Download" na página inicial.
+Selecione a versão do Node.js que deseja baixar (recomendamos a versão "LTS" para a maioria dos usuários).
+Clique no arquivo de instalação baixado e siga as instruções na tela para instalar o Node.js.
 
-Você pode visualizar uma demo do projeto https://sparkly-dusk-fb360e.netlify.app/.
+# Linguagem
+Utilizamos a versão mais recente estavél do node.js , react e jest.
 
-## Autor
+# Contribuição
+Instruções para colaboradores que desejam contribuir com o projeto, incluindo a configuração do ambiente de desenvolvimento e os processos de envio de sugestões, correções e novas funcionalidades.
+
+# Licença
+
+Informações sobre a licença de uso do projeto e seus termos.
+
+# Contato
+
+Informações de contato no link https://github.com/rsilvadevelloper?tab=repositories
+
+
+
+
 
 - https://github.com/luanmoraes123 - Desenvolvedor principal
