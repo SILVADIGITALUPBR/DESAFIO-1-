@@ -18,9 +18,10 @@ Selecione a versão do Node.js que deseja baixar (recomendamos a versão "LTS" p
 Clique no arquivo de instalação baixado e siga as instruções na tela para instalar o Node.js.
 
 # Linguagem
-Utilizamos a versão mais recente estavél do node.js , react e jest.
+Utilizamos a versão mais recente estavél do node.js e react
 
 # Contribuição
+
 Instruções para colaboradores que desejam contribuir com o projeto, incluindo a configuração do ambiente de desenvolvimento e os processos de envio de sugestões, correções e novas funcionalidades.
 
 # Licença
